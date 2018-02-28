@@ -20,3 +20,6 @@ What are the implications?
 #### Cancelling an unconfirmed transaction
 https://bitcoin.stackexchange.com/questions/23090/how-do-i-cancel-my-blockchain-transaction-still-unconfirmed \
 **TLDR**: send another, identical transaction with a higher fee to try to double spend -- the tx with a higher fee will get mined first, and then the subsequent one with a lower fee will be rejected because of double spend
+
+#### FAQ
+- How do you implment escrow services? I.e. if I use Bitcoin as payment for a good that's to be shipped, how can I ensure that I'll get a legitimate item?
