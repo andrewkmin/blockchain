@@ -7,12 +7,17 @@ https://solidity.readthedocs.io/en/develop/
 *General guide*\
 https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html
 
+*Thorough tutorial -- must-read IMO*\
+http://truffleframework.com/tutorials/pet-shop
+
 *Framework for auditing*\
 https://github.com/OpenZeppelin/zeppelin-solidity
 
 ### Testing: 
 *Official Truffle documentation*\
 http://truffleframework.com/docs/
+*Ganache documentation*\
+http://truffleframework.com/ganache/
 
 *Testing with Truffle* \
 https://medium.com/@angellopozo/testing-solidity-with-truffle-and-async-await-396e81c54f93
@@ -20,7 +25,7 @@ https://medium.com/@angellopozo/testing-solidity-with-truffle-and-async-await-39
 ### General directions (s/o Penn Blockchain)
 - Install Node (JS server framework)
 - Install Truffle (Solidity testing framework)
-- Install Ganache-CLI (Ethereum client)
+- Install Ganache-CLI (Ethereum client) and/or Ganache GUI application (optional)
 
 How do I run Truffle tests?
 - Make sure you have Truffle and Ganache CLI installed!

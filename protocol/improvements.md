@@ -25,3 +25,9 @@ https://github.com/ethereum/EIPs/issues/648
 
 ### Upgrade to Casper/Proof of Stake
 https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0
+
+### State-minimization
+https://ethresear.ch/t/state-minimized-implementation-on-current-evm/1255
+
+### State-channels (via Spankchain)
+https://github.com/SpankChain/general-state-channels
